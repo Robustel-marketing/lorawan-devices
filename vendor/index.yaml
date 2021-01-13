@@ -1551,3 +1551,7 @@ vendors:
 
   - id: the-box-development
     name: The-Box Development
+
+  - id: robustel
+    name: Robustel
+    vendorID: 842
